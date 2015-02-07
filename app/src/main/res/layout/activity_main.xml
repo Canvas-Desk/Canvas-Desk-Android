@@ -15,14 +15,14 @@
         android:textSize="40dp"
         android:layout_centerHorizontal="true"/>
 
-    <CheckBox
-        android:id="@+id/layer1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Layer 1"
-        android:editable="true"
-        android:layout_below="@+id/title"
-        android:layout_alignParentStart="true" />
+    <!--<CheckBox-->
+        <!--android:id="@+id/layer1"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Layer 1"-->
+        <!--android:editable="true"-->
+        <!--android:layout_below="@+id/title"-->
+        <!--android:layout_alignParentStart="true" />-->
 
     <!--<ListView
         android:id="@android:id/list"
